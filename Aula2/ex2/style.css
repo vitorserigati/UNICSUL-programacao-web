@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family:'Tangerine', serif;
+    padding: 20px;
+    background-color: #fff3;
+    font-size: 20px;
+}
+
+.sombra{
+    box-shadow: 1px 1px 1px #3D3D3D;
+    border-radius: 4%;
+}
+
+li{
+    margin-left: 1.5em;
+}
